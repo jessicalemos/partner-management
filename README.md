@@ -2,9 +2,9 @@
 Software development project
 
 ## What is it?
-Application for membership management of a student association
+Membership application for a student association, where you can access the membership list, your information and the paid fees.
 
-![](/img/Application.jpg)
+<img src="/img/Application.jpg" width="500" height="400" />
 
 ## Contributors
 Ana Pereira <br />
