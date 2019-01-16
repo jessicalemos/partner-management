@@ -7,7 +7,7 @@ Membership application for a student association, where you can access the membe
 <img src="/img/Application.jpg" width="500" height="400" />
 
 ## Contributors
-Ana Pereira <br />
-Ana Ribeiro <br />
-Carla Cruz <br />
-Jéssica Lemos <br />
+[Ana Ribeiro](https://github.com/anaribeiro142) <br />
+[Jéssica Lemos](https://github.com/jessicalemos) <br />
+[Filipa Pereira](https://github.com/FilipaPereira)<br />
+[Carla Cruz](https://github.com/CarlaCruz146) <br />
